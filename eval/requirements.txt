@@ -1,0 +1,5 @@
+-r ../requirements.txt
+
+datasets
+langchain-community
+ragas==0.1.21

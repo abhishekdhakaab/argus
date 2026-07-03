@@ -1,0 +1,6 @@
+project_id         = "your-gcp-project"
+region             = "us-central1"
+gateway_image      = "us-central1-docker.pkg.dev/your-gcp-project/argus/gateway:latest"
+rag_image          = "us-central1-docker.pkg.dev/your-gcp-project/argus/mcp-rag:latest"
+sql_image          = "us-central1-docker.pkg.dev/your-gcp-project/argus/mcp-sql:latest"
+external_api_image = "us-central1-docker.pkg.dev/your-gcp-project/argus/mcp-api:latest"

@@ -1,0 +1,4 @@
+-r gateway/requirements.txt
+-r mcp_servers/rag/requirements.txt
+-r mcp_servers/sql/requirements.txt
+-r mcp_servers/external_api/requirements.txt
